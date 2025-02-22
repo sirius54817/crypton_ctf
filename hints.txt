@@ -1,0 +1,29 @@
+Digital Camouflage:
+- This encoding method is commonly used for email attachments
+- The encoding uses 64 different characters
+- Look for patterns in the encoded text that end with = or ==
+
+Mirror Mirror:
+- Reading from right to left might help
+- Python has a simple way to reverse strings
+- The flag format is still CRYPTON{...}
+
+Emperor's Message:
+- The shift is a multiple of 13
+- All letters are shifted by the same amount
+- Online ROT13 tools exist
+
+Binary Warrior:
+- XOR operation is its own inverse
+- The key is a single byte (0-255)
+- Try bruteforcing all possible keys
+
+Historical Cipher:
+- The key word is repeated to match the message length
+- Each letter shifts the alphabet differently
+- The key word is "CIPHER"
+
+Prime Time:
+- n = p * q where p and q are prime
+- You need to factor n to find p and q
+- The private key d can be calculated using p, q, and e 

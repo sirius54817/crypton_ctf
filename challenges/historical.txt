@@ -1,0 +1,8 @@
+Welcome to the Historical Cipher!
+
+A message from the past:
+
+[Vigenère encrypted text - actual output will be the encrypted string]
+Key length = 6
+
+The key to history lies in a simple word... 

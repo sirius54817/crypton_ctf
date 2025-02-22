@@ -1,0 +1,8 @@
+Welcome to Binary Warrior!
+
+XOR is your friend:
+
+[Binary data - actual output will be the XOR'd string]
+Key = 0x13
+
+Remember: The key is a single byte! 

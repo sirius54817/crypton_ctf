@@ -1,0 +1,9 @@
+Welcome to Prime Time!
+
+Can you decrypt this RSA message?
+
+n=3233
+e=17
+c=2790
+
+Remember: p and q are prime numbers less than 100 
